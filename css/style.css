@@ -198,4 +198,60 @@ color: #000000;
 	display: block;
 	justify-content: center;
 }
+.buyurtma-berish{
+	background-color: #00BAFC;
+
+}
+.buyurtma-berish>.container{
+	padding: 70px 0;
+	margin: 0 auto;	
+	display: block;
+	justify-content: column;
+}
+.buyurtma-berish__header{
+	
+	margin: 0 auto;
+	text-align: center;
+}
+.buyurtma-berish__title {
+	color: #fff;
+}
+.buyurtma-berish__text{
+	margin: 0 auto;
+	color: #fff;
+	width: 60%;
+}
+.buyurtma-berish__form{
+	margin: 0 auto;
+	width: 30%;
+	background-color: #fff;
+	padding: 30px 25px;
+	justify-content: column;
+	border-radius: 5px;
+	text-align: center;
+}
+.buyurtma-berish__form__input input{
+	width: 100%;
+	border:none;
+	background-color: #F3F3F3;
+	padding: 20px 10px;
+	margin: 10px 0;
+	border-radius: 5px;
+
+}
+.buyurtma-berish__select{
+	width: 100%;
+	padding: 15px 10px;
+	background-color: #F3F3F3;
+	border:none;
+	margin-bottom: 30px;
+}
+.buyurtma-berish__form__btn{
+	margin: 0 auto;
+	text-align: center;
+
+}
+::placeholder{
+	color: #000;
+}
 
