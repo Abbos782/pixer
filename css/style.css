@@ -19,6 +19,9 @@ body{
 padding:10px 20px;
 background: #00BAFC;
 border-radius: 5px;
+border:none;
+color: #fff;
+font-weight: 600;
 }
 .primary__text{
 	padding: 20px 0;
@@ -29,6 +32,7 @@ line-height: 24px;
 color: #000000;
 }
 .primary__title{
+	padding-top: 0;
 font-style: normal;
 font-weight: bold;
 font-size: 30px;
@@ -70,3 +74,128 @@ color: #000000;
   color: #fff;
   font-weight: 600;
 }
+.bosqich{
+	padding: 100px 0;
+}
+
+.bosqich>.container{
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+.bosqich__content{
+	width: 45%;
+}
+.bosqich__photo{
+	padding-top: 50px;
+	width: 40%;
+}
+.bosqich__photo iframe{
+	width: 100%;
+}
+.bosqich__btn{
+	padding: 15px 20px;
+}
+.xizmatlar{
+	padding: 150px 0;
+}
+.xizmatlar>.container{
+	margin: 0 auto;
+	 display: block;
+	 justify-content: center;
+}
+.xizmatlar__header__title{
+	margin: 0 auto;
+	text-align: center;
+}
+.xizmatlar__header__text{
+	margin: 0 auto;
+	width: 60%;
+	text-align: center;
+}
+
+
+.xizmatlar__body__box img{
+	width: 80%;
+}
+.xizmatlar__body__boxs {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 1140px;
+    margin: 0 auto;
+}
+
+.xizmatlar__body__box {
+    width: 320px;
+    padding: 24px;
+    margin: 30px;
+    margin-bottom: 40px;
+    border-radius: 5px;
+    background: #FFFFFF;
+    box-shadow: 0px 8px 8px rgba(0, 0, 0, 0.1);
+}
+
+.xizmatlar__body__box img {
+    justify-content: center;
+
+}
+.xizmatlar__footer{
+	width: 100%;
+	margin: 0 auto;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	padding: 20px 0;
+}
+.xizmatlar__footer__btn{
+	
+}
+.xizmatlar__footer__link{
+	
+	margin-left: 20px;
+}
+.xizmatlar__footer__link{
+	color: #00BAFC;
+}
+.biz-qanday-ishlaymiz__header{
+	margin: 0 auto;
+	text-align: center;
+	display: block;
+	justify-content: center;
+
+}
+.biz-qanday-ishlaymiz__text{
+	margin: 0 auto;
+	width: 60%;
+}
+.biz-qanday-ishlaymiz__body__talablar{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.biz-qanday-ishlaymiz__body__photo{
+	width: 40%;
+}
+.biz-qanday-ishlaymiz__body__photo img{
+	width: 100%;
+}
+.biz-qanday-ishlaymiz__body__content{
+	width: 45%;
+}
+.Bir-necha-yechimlarni-taklif-qilamiz{
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	flex-direction: row-reverse;
+}
+.biz-qanday-ishlaymiz__body{
+	padding: 40px 0;
+}
+.biz-qanday-ishlaymiz__btn{
+	margin: 0 auto;
+	display: block;
+	justify-content: center;
+}
+
