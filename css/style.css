@@ -254,4 +254,17 @@ color: #000000;
 ::placeholder{
 	color: #000;
 }
+.footer{
+	background-color: #191919;
+	color: #fff;
+}
+.footer>.container{
+
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+}
+.footer__copyright{
+	width: 30%;
+}
 
