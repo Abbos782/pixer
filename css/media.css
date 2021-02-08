@@ -1,0 +1,291 @@
+@media(max-width: 1600px){
+	.container{
+		width: 1140px;
+		margin: 0 auto;
+	}
+}
+@media(max-width: 1500px){
+	.container{
+		width: 1140px;
+		margin: 0 auto;
+	}
+}
+@media(max-width: 1400px){
+	.container{
+		width: 1140px;
+		margin: 0 auto;
+	}
+}
+@media(max-width: 1300px){
+	.container{
+		width: 1140px;
+		margin: 0 auto;
+	}
+}
+@media(max-width: 1200px){
+	.container{
+		width: 1140px;
+		margin: 0 auto;
+	}
+}
+@media(max-width: 1100px){
+	.container{
+		width: 1000px;
+		margin: 0 auto;
+	}
+}
+@media(max-width: 1000px){
+	.container{
+		width: 900px;
+		margin: 0 auto;
+	}
+.buyurtma-berish__form{
+	margin: 0 auto;
+	width: 50%;
+	background-color: #fff;
+	padding: 30px 25px;
+	justify-content: column;
+	border-radius: 5px;
+	text-align: center;
+}
+}
+@media(max-width: 900px){
+	.container{
+		width: 800px;
+		margin: 0 auto;
+	}
+}
+@media(max-width: 870px){
+	.container{
+		width: 700px;
+		margin: 0 auto;
+	}
+.nav-list{
+	
+	display:none;
+	
+}
+.bosqich>.container{
+	display: block;
+	flex-direction: row-reverse;
+	align-items: center;
+	justify-content: column;
+	
+}
+.bosqich__content{
+	margin: 0 auto;
+	width: 100%;
+	text-align: center;
+}
+.bosqich__photo{
+	width: 100%;
+}
+.footer{
+	margin: 0 auto;
+	display: block;
+	justify-content: space-between;
+}
+.footer-link{
+	display: none;
+}
+.mobile-footer{
+	display: block;
+}
+}
+@media(max-width: 800px){
+	.container{
+		width: 700px;
+		margin: 0 auto;
+	}
+	.xizmatlar__body__box{
+    width: 90%;
+    padding: 24px;
+    margin: 30px;
+    margin-bottom: 40px;
+    border-radius: 5px;
+    background: #FFFFFF;
+    box-shadow: 0px 8px 8px rgba(0, 0, 0, 0.1);
+}
+.xizmatlar__header__text{
+	margin: 0 auto;
+	width: 90%;
+	text-align: center;
+}
+.buyurtma-berish__form{
+	margin: 0 auto;
+	width: 60%;
+	background-color: #fff;
+	padding: 30px 25px;
+	justify-content: column;
+	border-radius: 5px;
+	text-align: center;
+}
+}
+
+@media(max-width: 700px){
+	.container{
+		width: 600px;
+		margin: 0 auto;
+	}
+   .biz-qanday-ishlaymiz__text{
+	margin: 0 auto;
+	width: 100%;
+}
+.buyurtma-berish__form{
+	margin: 0 auto;
+	width: 70%;
+	background-color: #fff;
+	padding: 30px 25px;
+	justify-content: column;
+	border-radius: 5px;
+	text-align: center;
+}
+.biz-qanday-ishlaymiz__body__photo{
+	width: 90%;
+	margin: 0 auto;
+	text-align: center;
+}
+.biz-qanday-ishlaymiz__body__content{
+	width: 90%;
+	margin: 0 auto;
+	text-align: center;
+	margin-top: 30px;
+}
+.biz-qanday-ishlaymiz__body__talablar{
+	display: block;
+	justify-content:column;
+	align-items: center;
+}	
+.xizmatlar__body__box{
+    width: 90%;
+    padding: 24px;
+    margin: 30px;
+    margin-bottom: 40px;
+    border-radius: 5px;
+    background: #FFFFFF;
+    box-shadow: 0px 8px 8px rgba(0, 0, 0, 0.1);
+}
+.xizmatlar__header__text{
+	margin: 0 auto;
+	width: 90%;
+	text-align: center;
+}
+.Bir-necha-yechimlarni-taklif-qilamiz{
+	display: block;
+	align-items: center;
+	justify-content: column;
+	flex-direction: none;
+}
+}
+@media(max-width: 600px){
+	.container{
+		width: 500px;
+		margin: 0 auto;
+	}
+
+.xizmatlar__body__box{
+    width: 90%;
+    padding: 24px;
+    margin: 30px;
+    margin-bottom: 40px;
+    border-radius: 5px;
+    background: #FFFFFF;
+    box-shadow: 0px 8px 8px rgba(0, 0, 0, 0.1);
+}
+.xizmatlar__header__text{
+	margin: 0 auto;
+	width: 90%;
+	text-align: center;
+}	
+}
+@media(max-width: 600px){
+.container{
+		width: 500px;
+		margin: 0 auto;
+	}
+	.xizmatlar{
+	padding: 40px 0;
+}
+.xizmatlar__header__text{
+	margin: 0 auto;
+	width: 90%;
+	text-align: center;
+}
+.xizmatlar__body__box{
+    width: 90%;
+    padding: 24px;
+    margin: 30px;
+    margin-bottom: 40px;
+    border-radius: 5px;
+    background: #FFFFFF;
+    box-shadow: 0px 8px 8px rgba(0, 0, 0, 0.1);
+}
+.buyurtma-berish__text{
+	margin: 0 auto;
+	color: #fff;
+	width: 100%;
+}
+}
+
+@media(max-width: 500px){
+	.container{
+		width: 400px;
+		margin: 0 auto;
+	}
+	.buyurtma-berish__text{
+	margin: 0 auto;
+	color: #fff;
+	width: 100%;
+}
+.footer-list{
+	display: none;
+}
+.footer__copyright{
+	width: 80%;
+}
+}
+@media(max-width: 400px){
+	.container{
+		width: 300px;
+		margin: 0 auto;
+	}
+	.xizmatlar__footer{
+		display: block;
+		align-items: center;
+		justify-content: column;
+	}
+	.xizmatlar__footer__btn{
+		width: 70%;
+		margin: 0 auto;
+		display: block;
+		justify-content: center;
+		margin-bottom: 20px;
+	}
+	.xizmatlar__footer__link{
+		margin: 0 auto;
+		display: block;
+		justify-content: center;
+		text-align: center;
+
+	}
+	.buyurtma-berish__text{
+	margin: 0 auto;
+	color: #fff;
+	width: 100%;
+}
+.buyurtma-berish__form{
+	margin: 0 auto;
+	width: 90%;
+	background-color: #fff;
+	padding: 30px 25px;
+	justify-content: column;
+	border-radius: 5px;
+	text-align: center;
+}
+}
+@media(max-width: 300px){
+	.container{
+		width: 90%;
+		margin: 0 auto;
+	}
+}
