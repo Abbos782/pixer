@@ -45,6 +45,7 @@ color: #000000;
 }
 .navbar{
 	padding: 20px 0;
+	box-shadow: 0 5px 10px rgba(0,0,0,0.2);
 }
 .navbar>.container{
 	  display: flex;
@@ -55,6 +56,7 @@ color: #000000;
 	width: 20%;
 
 }
+
 .nav-list{
 	width: 50%;
 	display: flex;
@@ -77,6 +79,13 @@ color: #000000;
 .nav-tel__link a{
   color: #fff;
   font-weight: 600;
+}
+.nav-humburger{
+  display: none;
+}
+.nav-humburger a{
+	color: #000;
+	font-size: 25px;
 }
 .bosqich{
 	padding: 100px 0;
@@ -141,7 +150,11 @@ color: #000000;
     margin-bottom: 40px;
     border-radius: 5px;
     background: #FFFFFF;
-    box-shadow: 0px 8px 8px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 8px 8px rgba(0, 0, 0, 0.1);
+}
+.xizmatlar__body__box:hover{
+
+	  box-shadow: 0 20px 20px rgba(0, 0, 0, 0.1);
 }
 
 .xizmatlar__body__box img {

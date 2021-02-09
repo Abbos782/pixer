@@ -243,6 +243,12 @@
 .footer__copyright{
 	width: 80%;
 }
+.nav-tel__link{
+	display: none;
+}
+.nav-humburger{
+  display: block;
+}
 }
 @media(max-width: 400px){
 	.container{
